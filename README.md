@@ -5,7 +5,7 @@ I am senior data scientist working in Canada.
 **simarad1525/simarad1525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 BIO:
-
+-->
 - 🔭 I’m currently working at Affinity.co
 - 🌱 I’m currently learning about different techniques to design machine learning systems.
 - 👯 I’m looking to collaborate on any NLP ideas specifically generative models.
