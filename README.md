@@ -12,8 +12,6 @@ BIO:
 - 💬 Ask me about PhD related questions, electric bikes, meditation, python, deep learning, top academic institutes in Canada 
 - 📫 How to reach me: Ping on on Linkedin
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: 
-I started writing articles in my Bachelor. During my bachelor I wrote 5 articles and I had my presentation in Singapor.
-I finished my PhD research in 3 years. During this period, I visited 8 countries, lived in 3 provinces in Canada, visisted 8 provinces in Canada and worked in 4 places as an intern. During one of the internsips, I worked with Yoshua Bengio in Mila lab.
+- ⚡ Fun fact: I started writing articles in my Bachelor. During my bachelor I wrote 5 articles and had my presentation in Singapor!!  I finished my PhD research in 3 years. During this period, I visited 8 countries, lived in 3 provinces in Canada, visisted 8 provinces in Canada and worked in 4 places as an intern. During one of the internsips, I worked with Yoshua Bengio in Mila lab.
 - :star2: What I can Help you with: Reach out for consulting on your ML/DL projects and coaching!
--->
+
