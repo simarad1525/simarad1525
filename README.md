@@ -6,7 +6,6 @@ I am senior data scientist working in Canada.
 
 BIO:
 -->
-- 🔭 I’m currently working at Affinity.co
 - 🌱 I’m currently learning about different techniques to design machine learning systems.
 - 👯 I’m looking to collaborate on any ML/NLP ideas specifically generative models.
 - 💬 Ask me about PhD related questions, electric bikes, meditation, python, deep learning, top academic institutes in Canada 
