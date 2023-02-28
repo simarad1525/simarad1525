@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am senior data scientist working in Canada.
+I am a Lead data scientist working in Canada.
 
 <!--
 **simarad1525/simarad1525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
