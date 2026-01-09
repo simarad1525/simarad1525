@@ -1,4 +1,5 @@
 **Lead Data Scientist | AI Agent Systems & Multi-Agent Research | HCM Innovator**
+
 Building scalable ML systems and pioneering AI agent frameworks. 12+ years of experience spanning machine learning, NLP, and generative AI innovation.
 
 **What I do:**
@@ -36,6 +37,7 @@ Building scalable ML systems and pioneering AI agent frameworks. 12+ years of ex
 - Academic ML research
 
 **About me:**
+
 PhD in Computer Science (Dalhousie). Research background in NLP, fairness in AI, and cross-cultural text analysis. Worked with Yoshua Bengio at MILA Lab. Published at top-tier conferences: ACL, KDD, EMNLP, NeurIPS, ECML PKDD.
 
 Interests: AI agents, LLM systems, generative AI, electric bikes, meditation, Python, deep learning, AI strategy
