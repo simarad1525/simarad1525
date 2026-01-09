@@ -1,8 +1,7 @@
-Lead Data Scientist | AI Agent Systems & Multi-Agent Research | HCM Innovator
-
+**Lead Data Scientist | AI Agent Systems & Multi-Agent Research | HCM Innovator**
 Building scalable ML systems and pioneering AI agent frameworks. 12+ years of experience spanning machine learning, NLP, and generative AI innovation.
 
-What I do:
+**What I do:**
 
 🤖 AI Agent Systems: Architect Multi-Agent System (MAS) evaluation frameworks and LLM evaluation methodologies
 
@@ -14,29 +13,29 @@ What I do:
 
 🌍 Global Impact: Implemented multilingual systems (4+ languages); contributed to Bryte AI achieving General Availability
 
-Current Focus:
+**Current Focus:**
 
-Multi-Agent Systems architecture and evaluation
+- Multi-Agent Systems architecture and evaluation
 
-LLM evaluation metrics and benchmarking
+- LLM evaluation metrics and benchmarking
 
-Generative AI applications in HCM
+- Generative AI applications in HCM
 
-Building scalable agent frameworks for enterprise
+- Building scalable agent frameworks for enterprise
 
-Collaborate with me on:
+**Collaborate with me on:**
 
-ML/NLP projects with focus on generative models and agents
+- ML/NLP projects with focus on generative models and agents
 
-LLM evaluation frameworks and metrics
+- LLM evaluation frameworks and metrics
 
-Multi-agent system design and orchestration
+- Multi-agent system design and orchestration
 
-HCM AI applications
+- HCM AI applications
 
-Academic ML research
+- Academic ML research
 
-About me:
+**About me:**
 PhD in Computer Science (Dalhousie). Research background in NLP, fairness in AI, and cross-cultural text analysis. Worked with Yoshua Bengio at MILA Lab. Published at top-tier conferences: ACL, KDD, EMNLP, NeurIPS, ECML PKDD.
 
 Interests: AI agents, LLM systems, generative AI, electric bikes, meditation, Python, deep learning, AI strategy
