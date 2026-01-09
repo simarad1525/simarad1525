@@ -42,7 +42,7 @@ PhD in Computer Science (Dalhousie). Research background in NLP, fairness in AI,
 
 Interests: AI agents, LLM systems, generative AI, electric bikes, meditation, Python, deep learning, AI strategy
 
-Let's connect: 🔗 LinkedIn | 📧 ss.sharifirad@gmail.com
+Let's connect: 🔗 LinkedIn(www.linkedin.com/in/sima-sharifirad) | 📧 ss.sharifirad@gmail.com
 
 📚 Publications: Semantic Scholar(https://www.semanticscholar.org/author/Sima-Sharifirad/10745415) | 🎓 PhD Research completed in 3 years
 
