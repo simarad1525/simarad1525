@@ -6,9 +6,9 @@ What I do:
 
 🤖 AI Agent Systems: Architect Multi-Agent System (MAS) evaluation frameworks and LLM evaluation methodologies
 
-📊 LLM Research: Introduced hallucination metrics for agent evaluation; designed MCP evaluation frameworks
+📊 LLM Research: Introduced multiple metrics for agent evaluation; designed MCP evaluation frameworks
 
-🛠️ HCM Innovation: Built production GenAI agents for performance feedback, employee guidance, and agent orchestration (RetTool, ClientTool, ExitAgentTool)
+🛠️ HCM Innovation: Built production GenAI agents for performance feedback, employee guidance, and agent orchestration (RestTool, ClientTool, ExitAgentTool)
 
 👥 Technical Leadership: Mentor data scientists, support 300+ cross-functional team members, establish unified evaluation standards
 
